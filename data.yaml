@@ -1,0 +1,6 @@
+train: C:/Users/user/Desktop/koala_detection/Data_Koala_new/images/train
+val: C:/Users/user/Desktop/koala_detection/Data_Koala_new/images/val
+test: C:/Users/user/Desktop/koala_detection/Data_Koala_new/images/test
+
+nc: 1
+names: ['koala']
